@@ -1,0 +1,21 @@
+body {
+  background-image: url(images/bg.jpg);
+  /* background-position: center; */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main {
+  margin-left: 100px;
+}
+
+.hello {
+  padding-top: 60px;
+  font-size: 50px;
+  font-family: "Dancing Script", cursive;
+}
+
+.desc {
+  font-size: 26px;
+  font-family: "Satisfy", cursive;
+}
